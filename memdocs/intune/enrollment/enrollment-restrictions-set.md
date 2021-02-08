@@ -146,7 +146,6 @@ BYOD の登録中にユーザーがデバイス登録の上限に達すると、
 - 登録ユーザーは[デバイス登録マネージャー アカウント]( device-enrollment-manager-enroll.md)を使用しています。
 - デバイスは [Windows Autopilot](../../autopilot/enrollment-autopilot.md) 経由で登録されます。
 - デバイスは、Windows Autopilot に登録されますが、Windows 設定からの MDM 登録のみオプションではありません。
-- デバイスの IMEI 番号は **[デバイスの登録]**  >  **[[業務用デバイスの ID]](corporate-identifiers-add.md)** に記載されています。
 - デバイスが[一括プロビジョニング パッケージ](windows-bulk-enroll.md)経由で登録されます。
 - デバイスが GPO または[共同管理用の Configuration Manager からの自動登録](/configmgr/comanage/quickstart-paths#bkmk_path1)経由で登録されます。
  
